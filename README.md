@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm John 👋
 
-<!--
-**Thatonecodeguy/Thatonecodeguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer + mechanic building tools for:
+- 🚚 Fleet maintenance & breakdown service
+- 💰 Personal finance & budgeting (Plaid + Stripe)
+- 🛠 Construction & woodworking plan sales
+- 🎮 Web game platforms with ads
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Locksum** – AI-powered budgeting + banking dashboard  
+- **FleetFix** – Fleetio-style maintenance app for trucks  
+- **GameNest** – Browser game hub with ads  
+- **Digital Plan Shop** – Sell shed & woodworking plans online
+
+## Tech I use
+
+- **Backend:** Python (FastAPI), Node.js
+- **Frontend:** React / Next.js, Tailwind CSS
+- **Mobile:** React Native / Expo
+- **Data & Auth:** PostgreSQL, SQLite, Firebase, JWT
+- **Payments & Banking:** Stripe, Plaid
+
+## Want to see my code?
+
+Check out my pinned projects below 👇
