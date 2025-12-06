@@ -1,26 +1,54 @@
-# Hey, I'm John 👋
+# Hey, I'm John 👋  
+aka **That One Code Guy**
 
-Self-taught developer + mechanic building tools for:
-- 🚚 Fleet maintenance & breakdown service
-- 💰 Personal finance & budgeting (Plaid + Stripe)
-- 🛠 Construction & woodworking plan sales
-- 🎮 Web game platforms with ads
+I build real-world apps that help people with:
+- 🚚 Fleet maintenance & breakdown service  
+- 💰 Personal finance, budgeting & AI insights  
+- 🛠 Construction & woodworking digital plan shops  
+- 🎮 Browser gaming platforms with ad revenue  
+- 📱 Full-stack web & mobile applications  
 
-## What I'm working on
+---
 
-- **Locksum** – AI-powered budgeting + banking dashboard  
-- **FleetFix** – Fleetio-style maintenance app for trucks  
-- **GameNest** – Browser game hub with ads  
-- **Digital Plan Shop** – Sell shed & woodworking plans online
+## 🚀 Current Projects
 
-## Tech I use
+### 🔹 **Locksum** – AI-powered finance + budgeting app  
+Plaid banking, Stripe subscriptions, custom budgeting engine, and AI money advisor.
 
-- **Backend:** Python (FastAPI), Node.js
-- **Frontend:** React / Next.js, Tailwind CSS
-- **Mobile:** React Native / Expo
-- **Data & Auth:** PostgreSQL, SQLite, Firebase, JWT
-- **Payments & Banking:** Stripe, Plaid
+### 🔹 **FleetFix** – Fleetio-style fleet maintenance system  
+Work orders, parts inventory, trucks, mechanics, auto-deducted inventory, and mobile UI.
 
-## Want to see my code?
+### 🔹 **GameNest** – Revenue-generating browser game platform  
+Playable web games, ads, user color themes, and fast CDN delivery.
 
-Check out my pinned projects below 👇
+### 🔹 **Digital Plan Shop** – Sheds & woodworking plans  
+E-commerce site for downloadable PDF plans.
+
+---
+
+## 🧰 Tech Stack I Use
+
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**Frontend:** React, Next.js, Tailwind, Expo/React Native  
+**Backend:** FastAPI, Node.js  
+**Mobile:** React Native (Expo)  
+**Databases:** PostgreSQL, SQLite  
+**Cloud:** Render, DigitalOcean, Cloudflare, Firebase  
+**Payments:** Stripe  
+**Banking:** Plaid  
+**Other:** AI integrations, JWT auth, SaaS multi-tenancy
+
+---
+
+## 📌 Featured Repositories  
+*(Pinned below)*  
+
+- **Locksum** – finance + AI  
+- **FleetFix** – fleet maintenance  
+- **GameNest** – web game platform  
+- **Digital Plan Shop** – woodworking plans  
+- Plus demos for Plaid, Stripe, and AI tools
+
+---
+
+💬 **Let’s build something wild.**
